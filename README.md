@@ -1,2 +1,2 @@
-# fitness-frog
-this application provide your exercise..
+## fitness-frog
+this application provide your exercise like :frog:
